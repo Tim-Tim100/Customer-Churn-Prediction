@@ -1,0 +1,98 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Data & Models (large files)
+*.pkl
+*.joblib
+*.h5
+*.model
+*.pth
+*.pt
+data/*.csv
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+*.pot
+
+# Environment variables
+.env
+.env.local
+
+# Streamlit
+.streamlit/
+*.streamlit.app
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Output files
+*.output
+*.results
+output/
+results/
+logs/
+
+# Large visualization files (optional - comment out if you want to save)
+# *.png
+# *.jpg
+# *.gif
+
+# Keep important model files
+!models/best_model.pkl
+!models/scaler.pkl
+!models/feature_order.pkl
