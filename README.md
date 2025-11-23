@@ -401,7 +401,7 @@ GB: 200 sequential adjustments (captures complex patterns)
 ## 📧 Contact & Links
 
 - **GitHub:** [github.com/Tim-Tim100/Customer-Churn-Prediction](https://github.com/Tim-Tim100/Customer-Churn-Prediction)
-- **LinkedIn:** [www.linkedin.com/in/toyeeb-toye-805b0b247](www.linkedin.com/in/toyeeb-toye-805b0b247)
+- **LinkedIn:** [www.linkedin.com/in/toyeeb-toye-805b0b247]
 - **Email:** toyeeb137@gmail.com
 
 ---
