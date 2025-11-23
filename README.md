@@ -1,4 +1,4 @@
-#  Telco Customer Churn Prediction
+# Customer Churn Prediction
 
 **Production-ready machine learning model predicting customer churn with 84.76% ROC-AUC using Gradient Boosting**
 
